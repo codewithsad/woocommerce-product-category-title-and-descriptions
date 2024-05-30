@@ -1,1 +1,1 @@
-# woocommerce-product-category-title-and-descriptions
+# woocommerce product category title and descriptions
